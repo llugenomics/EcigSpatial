@@ -14,7 +14,7 @@ runEnrichment_DEG_GWAS.sh
 
 
 ### Run the Rscripts to make plots in the paper
-**plotEnrichmentSingleCell_ecigDEG.R**
-**plotEnrichment_DEG_GWAS.R**
+plotEnrichmentSingleCell_ecigDEG.R
+plotEnrichment_DEG_GWAS.R
 		
 
