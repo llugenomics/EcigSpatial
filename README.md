@@ -11,8 +11,7 @@ There are 5 main folders that constitute different data analysis
 ## Data Analysis Overview
 This repository contains different data analysis folders.
 
-## **stRNAseq**
-This folder contains the scripts to reproduce spatial transcriptomics data.
+## **stRNAseq** This folder contains the scripts to reproduce spatial transcriptomics data.
 
 ## **stRNAseq_StereoSeq**
 
