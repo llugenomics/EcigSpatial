@@ -1,19 +1,18 @@
 # ecigSpTranscriptome
-Spatial transcriptome of e-cig induced transcriptional changes.
+**Spatial transcriptome of prenatal e-cig induced transcriptional changes in rat brain.**
+
 
 This repository contains scripts and data to reproduce the analysis and figures used in the paper.
-
 Various types of data such as spatial transcriptome (stRNA-seq), single nucles snRNA-seq and snATAC-seq.
 Analysis of each data types are saved in separate folders.
 
-There are 5 main folders that constitute different data analysis
 
 ## Data Analysis Overview
-This repository contains different data analysis folders.
+There are 5 main folders that constitute analysis steps of different data types.
+
 
 ## **stRNAseq** 
-This folder contains the scripts to reproduce spatial transcriptomics data.
-### Steps:
+Spatial transcriptomics data
 1. Preprocess the data
 2. Run velocity analysis
 3. Visualize results
