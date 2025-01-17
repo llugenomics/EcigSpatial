@@ -9,8 +9,8 @@ runDownloadPsychENCODEData.sh
 
 ### Run the scripts to compare enrichment of DEG versus nonDEGs with human genes
 
-`runEnrichmentSingleCell_ecigDEG.sh`
-`runEnrichment_DEG_GWAS.sh`
+- `runEnrichmentSingleCell_ecigDEG.sh`
+- `runEnrichment_DEG_GWAS.sh`
 
 
 ### Run the Rscripts to make plots in the paper
