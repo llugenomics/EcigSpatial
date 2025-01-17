@@ -8,11 +8,13 @@ Analysis of each data types are saved in separate folders.
 
 There are 5 main folders that constitute different data analysis
 
-## **snRNAseq**
 
 ## **stRNAseq**
+This folder contains the scripts to reproduce spatial transcriptomics data
 
 ## **stRNAseq_StereoSeq**
+
+## **snRNAseq**
 
 ## **rnaVelocity**
 
