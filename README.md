@@ -25,7 +25,9 @@ This folder contains the scripts to reproduce spatial transcriptomics data.
 ## **rnaVelocity**
 
 ## **enrichmentHuman**
-
-There is README file inside each folder that helps to run the data analysis step by step.  
-
+### Steps:
+1. Download human PsyhcENCODE data
+2. Preprocess the data and get rat orthologous data
+3. Run vanalysis
+4. Visualize results
 
