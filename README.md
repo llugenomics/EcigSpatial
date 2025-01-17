@@ -7,15 +7,16 @@ Various types of data such as spatial transcriptome (stRNA-seq), single nucles s
 Analysis of each data types are saved in separate folders.
 
 There are 5 main folders that constitute different data analysis
-**snRNAseq**
 
-**stRNAseq**
+## **snRNAseq**
 
-**stRNAseq_StereoSeq**
+## **stRNAseq**
 
-**rnaVelocity**
+## **stRNAseq_StereoSeq**
 
-**enrichmentHuman**
+## **rnaVelocity**
+
+## **enrichmentHuman**
 
 There is README file inside each folder that helps to run the data analysis step by step.  
 
