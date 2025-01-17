@@ -8,9 +8,13 @@ Analysis of each data types are saved in separate folders.
 
 There are 5 main folders that constitute different data analysis
 snRNAseq
+
 stRNAseq
+
 stRNAseq_StereoSeq
+
 rnaVelocity
+
 enrichmentHuman
 
 
