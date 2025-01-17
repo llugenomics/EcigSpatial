@@ -13,6 +13,10 @@ This repository contains different data analysis folders.
 
 ## **stRNAseq** 
 This folder contains the scripts to reproduce spatial transcriptomics data.
+### Steps:
+1. Preprocess the data
+2. Run velocity analysis
+3. Visualize results
 
 ## **stRNAseq_StereoSeq**
 
